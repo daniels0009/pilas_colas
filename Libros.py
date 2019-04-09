@@ -1,4 +1,4 @@
-# - * - codificación: utf-8 - * -
+
 de pila import  *
  Libro de clase :
     
