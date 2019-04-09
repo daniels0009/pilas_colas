@@ -1,5 +1,5 @@
 # pilas_colas
-#  INTEGRANTES
+## Integrantes
 -Daniel camargo pepinosa 20142020094
 -julian pinill  20142020
 -Juan camilo cruz
