@@ -7,7 +7,7 @@ de pila import  *
          auto.a=autor
         auto .t = tematica
         auto .p = paginas
-        auto .e.editorial
+      auto .e = editorial
 
 
     
