@@ -24,7 +24,7 @@ clase  Pila :
         "" " Devuelve True si la lista está vacía, False si no. " ""
         volver  auto .items == []
 
- Pelicula de clase :
+ Libros de clase:
     def   __init__ ( self , nombre , autor , tematica , paginas , editorial ):
         auto .n = nombre
          auto.a = autor
@@ -42,4 +42,3 @@ clase  Pila :
         volver auto .p
         def   getNombre ( self ):
         volver auto .e  
-    
