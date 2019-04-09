@@ -4,3 +4,4 @@
 - julian pinill 20142020
 - Juan camilo cruz
 # Repositorio para la materia ciencias de la computacion del profesor Alejandro Daza.
+##Se ordena por Titutlo y Autor.
