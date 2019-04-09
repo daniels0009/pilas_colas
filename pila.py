@@ -25,20 +25,13 @@ clase  Pila :
         volver  auto .items == []
 
  Libros de clase:
-    def   __init__ ( self , nombre , autor , tematica , paginas , editorial ):
+    def   __init__ ( self , nombre , autor ):
         auto .n = nombre
-         auto.a = autor
-        auto .t = tematica
-        auto .p = paginas
-        auto .e = editorial
-    
+         auto.a=autor
+
+
     def   getNombre ( self ):
         volver auto .n       
     def   getNombre ( self ):
         volver auto .a
-        def   getNombre ( self ):
-        volver auto .t     
-    def   getNombre ( self ):
-        volver auto .p
-        def   getNombre ( self ):
-        volver auto .e  
+        
